@@ -1,6 +1,6 @@
 ### What a wonderful opensource. 🤗
 
-[Paran Lee's linkedin](https://www.linkedin.com/in/paran-lee-055159216/)
+<a href="https://www.linkedin.com/in/paran-lee-055159216/"><img width=14 src="357098.png" alt="Paran Lee's linkedin"> <b>Paran Lee's linkedin</b></a>
 
 <!--
 **paranlee/paranlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
