@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/channel/UC3BFm4Y8MAkMojLaIOQXqig"><img width=32 src="youtube.png" alt="Paran Lee's YouTube"> <b style="font-size: 2em">My YouTube</b></a>  
 
 
-Let us research [Linux kernel exploitation](https://github.com/xairy/linux-kernel-exploitation).
+Let us research [Linux kernel exploitation](https://github.com/xairy/linux-kernel-exploitation), [Linux malware](https://github.com/timb-machine/linux-malware).
 
 
 
