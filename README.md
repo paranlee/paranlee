@@ -1,6 +1,6 @@
 # What a wonderful opensource. 🤗
 
-<a href="https://www.linkedin.com/in/paran-lee-055159216/"><img width=28 src="linkedin.png" alt="Paran Lee's Linkedin Profile"> <b style="font-size: 2em">Linkedin Profile</b></a>  
+<a href="https://www.linkedin.com/in/yunseong-kim-linux-kernel/"><img width=28 src="linkedin.png" alt="Paran Lee's Linkedin Profile"> <b style="font-size: 2em">Linkedin Profile</b></a>  
 
 <a href="https://www.youtube.com/channel/UC3BFm4Y8MAkMojLaIOQXqig"><img width=32 src="youtube.png" alt="Paran Lee's YouTube"> <b style="font-size: 2em">My YouTube</b></a>  
 
